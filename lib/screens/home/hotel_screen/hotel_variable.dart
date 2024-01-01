@@ -1,0 +1,51 @@
+final List<Map<String, dynamic>> hotelList = [
+  {
+    'id': '0',
+    'image': 'assets/images/hotel1.jpg',
+    'place': "Eko Hotel & Suites",
+    'destination': "Lagos",
+    'price': 12000,
+  },
+  {
+    'id': '1',
+    'image': 'assets/images/hotel2.jpg',
+    'place': "Leonardo Royal",
+    'destination': "London",
+    'price': 30000,
+  },
+  {
+    'id': '2',
+    'image': 'assets/images/hotel3.jpg',
+    'place': "Apex Temple Court",
+    'destination': "Chicago",
+    'price': 20000,
+  },
+  {
+    'id': '3',
+    'image': 'assets/images/hotel4.jpg',
+    'place': "Maryln Lodge",
+    'destination': "Dubai",
+    'price': 23000,
+  },
+  {
+    'id': '3',
+    'image': 'assets/images/hotel4.jpg',
+    'place': "Maryln Lodge",
+    'destination': "Dubai",
+    'price': 23000,
+  },
+  {
+    'id': '3',
+    'image': 'assets/images/hotel4.jpg',
+    'place': "Maryln Lodge",
+    'destination': "Dubai",
+    'price': 23000,
+  },
+  {
+    'id': '3',
+    'image': 'assets/images/hotel4.jpg',
+    'place': "Maryln Lodge",
+    'destination': "Dubai",
+    'price': 23000,
+  },
+];

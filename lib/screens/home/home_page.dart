@@ -1,6 +1,7 @@
 import 'package:boot_tickets/screens/home/hotel_screen/hotel_screens.dart';
 import 'package:boot_tickets/screens/home/hotel_screen/view_all.dart';
 import 'package:boot_tickets/screens/home/tickets_screen/ticket_view.dart';
+import 'package:boot_tickets/screens/home/tickets_screen/tickets_variable.dart';
 import 'package:boot_tickets/utils/app_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
